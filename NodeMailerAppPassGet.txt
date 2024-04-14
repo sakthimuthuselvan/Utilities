@@ -1,0 +1,5 @@
+If you want to set up a 16 digit Google app password, 
+you need to first go to the Google account settings page. 
+Once there, you can follow the instructions to enable two-step verification and create a 16 digit Google app password.
+
+Manage GoogleAccount > Security > Two step verifycation > App Password
